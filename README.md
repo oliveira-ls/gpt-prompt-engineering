@@ -24,7 +24,7 @@ O repositório contém planilhas organizadas com:
 
 2) Respostas geradas pelo modelo ChatGPT;
 
-2) Quantidade de interações por prompt ou fórmula;
+2) Quantidade de interações por fórmula;
 
 3) Total de chats por etapa e por fórmula;
 
